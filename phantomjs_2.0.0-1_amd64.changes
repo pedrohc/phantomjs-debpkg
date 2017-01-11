@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 19 Oct 2015 11:41:43 -0300
+Source: phantomjs
+Binary: phantomjs
+Architecture: source amd64
+Version: 2.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: root <root@bolsistas.intranet.ufba.br>
+Changed-By: root <root@bolsistas.intranet.ufba.br>
+Description:
+ phantomjs  - <insert up to 60 chars description>
+Changes:
+ phantomjs (2.0.0-1) unstable; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 8093dc2bf6f9214abf4fe3c218ff317273e3a524 853 phantomjs_2.0.0-1.dsc
+ 2c0f8c1b7b50b2086c4e55b4e8e50268cafb0336 88206279 phantomjs_2.0.0.orig.tar.gz
+ eaed8c0d0b8fd7ba9cb1057f088ac33c097442d8 10476 phantomjs_2.0.0-1.debian.tar.xz
+ ee29403d795a2ccacb4619c916a7d3b4cb911976 13360288 phantomjs_2.0.0-1_amd64.deb
+Checksums-Sha256:
+ 0191f1085dae33a334379fbc7d3349c2081dcb8ef69ef778732707b716c2afdd 853 phantomjs_2.0.0-1.dsc
+ c02e6deff6bb1674600f6418d002749073fec9491e58d8a9b6c5dd13dc1b644e 88206279 phantomjs_2.0.0.orig.tar.gz
+ e32a36682568693120d1d3adbc43b8069d2a3a6b8c053818f327b74453fcc8c2 10476 phantomjs_2.0.0-1.debian.tar.xz
+ c2baf41b2c356c39424820743d9091426d3ae0f582275ff3c9387b02cfd6cfbf 13360288 phantomjs_2.0.0-1_amd64.deb
+Files:
+ d351096b8bcb709d09eafea10f177ca1 853 unknown optional phantomjs_2.0.0-1.dsc
+ d4eeecf2d1655004ec4be26bb45df842 88206279 unknown optional phantomjs_2.0.0.orig.tar.gz
+ 9e0a11b4bb2eb2029a2a194894952106 10476 unknown optional phantomjs_2.0.0-1.debian.tar.xz
+ f4059ed95e750e87e8f8f30fc012bff0 13360288 unknown optional phantomjs_2.0.0-1_amd64.deb

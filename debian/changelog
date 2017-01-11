@@ -1,0 +1,5 @@
+phantomjs (2.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@bolsistas.intranet.ufba.br>  Mon, 19 Oct 2015 11:41:43 -0300
